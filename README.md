@@ -25,3 +25,5 @@ candlestick data from three exchanges:
 
 The individual price data files per exchange are not clipped and contain their
 full histories, which are overlapping.
+
+About 10 days are missing from the data.
